@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LocalManifestsDemo/project-A" />
+  <project path="project/B" name="LocalManifestsDemo/project-B" revision="stable" />
+  <project path="project/C" name="LocalManifestsDemo/project-B" />
+</manifest>
