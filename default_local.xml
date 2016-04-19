@@ -3,5 +3,5 @@
   <remove-project name="LocalManifestsDemo/project-A" />
   <remove-project name="LocalManifestsDemo/project-B" />
   <project path="B" name="LocalManifestsDemo/project-B" revision="stable" />
-  <project path="C" name="LocalManifestsDemo/project-B" />
+  <project path="C" name="LocalManifestsDemo/project-C" />
 </manifest>
